@@ -57,7 +57,7 @@ https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor
 
 ### My Activities
 
-![Mizan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirahman&theme=radical&border=7F3FBF&background=0D1117)
+[![Mizan's Streak](https://streak-stats.demolab.com?user=mirahman&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Mizan's Github History](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirahman&theme=radical&count_private=true)
 
