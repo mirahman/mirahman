@@ -58,11 +58,11 @@ I love sports especially football (soccer), cricket, Formula 1 and golf. Though 
 ### My Activities
 
 <p>
-<img alt="Mizan's Github History" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirahman&theme=radical&count_private=true" height="200px" width="49%"/>
-<img alt="Mizan's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirahman&theme=radical&border=7F3FBF&background=0D1117" height="200px" width="49%"/>
+<img alt="Mizan's Github History" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirahman&theme=radical&count_private=true" height="200px" width="55%"/>
+<img alt="Mizan's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirahman&theme=radical&border=7F3FBF&background=0D1117" height="200px" width="44%"/>
 </p>
 
 <p>
-<img alt="Mizan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mirahman&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" height="192px" width="55%"/>
-<img alt="Mizan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mirahman&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="44%"/>
+<img alt="Mizan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mirahman&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" height="220px" width="55%"/>
+<img alt="Mizan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mirahman&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="220px" width="44%"/>
 </p>
