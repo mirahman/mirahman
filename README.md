@@ -55,8 +55,10 @@ I actively manage a few prominent Facebook groups, namely - [phpXperts](https://
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ## My Open Source Projects
-[![PHP Data Structure & Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=mirahman&repo=PHP-Data-Structure-and-Algorithms&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mirahman/PHP-Data-Structure-and-Algorithms)
-[![Luhn Mod N](https://github-readme-stats.vercel.app/api/pin/?username=mirahman&repo=LuhnModN&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mirahman/LuhnModN)
+<p>
+<img alt="PHP Data Structure & Algorithms" src="https://github-readme-stats.vercel.app/api/pin/?username=mirahman&repo=PHP-Data-Structure-and-Algorithms&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" height="200px" width="49%"/>
+<img alt="Luhn Mod N" src="https://github-readme-stats.vercel.app/api/pin/?username=mirahman&repo=LuhnModN&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" height="200px" width="49%"/>
+</p>
 
 ### My Activities
 <p>
