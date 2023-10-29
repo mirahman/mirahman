@@ -61,6 +61,5 @@ I love sports especially football (soccer), cricket, Formula 1 and golf. Though 
 
 [![Mizan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirahman&theme=radical&border=7F3FBF&background=0D1117)
 
-![Mizan's Stats](https://github-readme-status-sand.vercel.app/api?username=mirahman&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
-![Mizan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirahman&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+<a href="https://github.com/mirahman"><img alt=Mizan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mirahman&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" height="192px" width="49.5%"/></a>
+<a href="https://github.com/mirahman"><img alt="Mizan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mirahman&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
