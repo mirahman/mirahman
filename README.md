@@ -54,6 +54,10 @@ I actively manage a few prominent Facebook groups, namely - [phpXperts](https://
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
+## My Open Source Projects
+[![PHP Data Structure & Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=mirahman&repo=PHP-Data-Structure-and-Algorithms&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mirahman/PHP-Data-Structure-and-Algorithms)
+[![Luhn Mod N](https://github-readme-stats.vercel.app/api/pin/?username=mirahman&repo=LuhnModN&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mirahman/LuhnModN)
+
 ### My Activities
 <p>
 <img alt="Mizan's Github History" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirahman&theme=radical&count_private=true" height="200px" width="60%"/>
@@ -64,6 +68,3 @@ I actively manage a few prominent Facebook groups, namely - [phpXperts](https://
 <img alt="Mizan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mirahman&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="225px" width="44%"/>
 </p>
 
-## My Open Source Projects
-[![PHP Data Structure & Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=mirahman&repo=PHP-Data-Structure-and-Algorithms&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mirahman/PHP-Data-Structure-and-Algorithms)
-[![Luhn Mod N](https://github-readme-stats.vercel.app/api/pin/?username=mirahman&repo=LuhnModN&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mirahman/LuhnModN)
