@@ -61,6 +61,6 @@ I love sports especially football (soccer), cricket, Formula 1 and golf. Though 
 
 [![Mizan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirahman&theme=radical&border=7F3FBF&background=0D1117)
 
-![Mizan's Stats](https://github-readme-status-mirahmans-projects.vercel.app/api?username=mirahman&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Mizan's Stats](https://github-readme-status-sand.vercel.app/api?username=mirahman&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
 ![Mizan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirahman&theme=darcula&show_icons=true&hide_border=true&layout=compact)
