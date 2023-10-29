@@ -8,18 +8,17 @@
 [![Instagram](https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/booleandreams)
 
 
+I am a seasoned Full Stack software professional with over two decades of experience. My programming journey commenced in 1999 with Java, and since then, I have worked with a plethora of programming languages and platforms. My primary focus revolves around crafting mobile and web-based applications known for their high scalability, robust security, and optimized architecture. I am a fervent advocate and practitioner of Agile methodologies.
 
-I am a Full Stack software artisan with more than two decades of experience. My programming journey started in the year 1999 with Java and till date I have worked on numerious languages and platforms. My core focus is on mobile and web based application development with high scalability, secure and optimized architecture. I am an agile practitioner and preacher of Agility. 
+I have authored several tech books for Packt Publishing, with the most prominent being "PHP 7 Data Structures and Algorithms." I have an enduring passion for Data Structures and Algorithms (DSA) and enjoy solving problems regularly on platforms like HackerRank, Project Euler, and LeetCode. My keen interests lie in software architecture, security, optimization, and the principles of agility.
 
-I have written several tech books from Packt Publishing and the most noteworthy one is "PHP 7 Data structuers and Algorithms". I love DSA and problem solving. I am regular problem solver in hacker rank (Project Euler) and Leetcode. I love software architecture, security, optimization and agile. 
+Beyond software, I have a deep love for sports, particularly football (soccer), cricket, Formula 1, and golf. Although I occasionally partake in bowling.
 
-I love sports especially football (soccer), cricket, Formula 1 and golf. Though I play bowling mostly :) 
+In the Agile and developers community, I've taken on leadership roles as the organizing chair of Regional Scrum Gathering Dhaka in 2019 and 2023. I have organized and conducted sessions at numerous local Agile and developer conferences, including several Global Scrum Gatherings, over 10 regional Scrum gatherings, the PHP Conference Asia, and various local developer conferences.
 
-- I was the organizing charir of Regional Scrum Gathering Dhaka 2019 and 2023. I have arranged and took sessions in numbers of local agile and developers conferences including few Global Scrum Gatherings, 10+ regional scrum gatherings, PHP Conference Asia and tons of local dev conferences. 
+One of my greatest passions is teaching. I thoroughly enjoy imparting knowledge in programming, system design, security, and Agile principles. To date, I've had the privilege of training over 5000 individuals worldwide in these domains.
 
-- I actively manage a few popular Facebok groups - [phpXperts](https://www.facebook.com/groups/256755924335725), [Agile Bangladesh](https://www.facebook.com/groups/1486184228261487)
-
-
+I actively manage a few prominent Facebook groups, namely - [phpXperts](https://www.facebook.com/groups/256755924335725), [Agile Bangladesh](https://www.facebook.com/groups/1486184228261487)
 
 ### My Toolbox 
 
