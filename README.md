@@ -58,8 +58,8 @@ I love sports especially football (soccer), cricket, Formula 1 and golf. Though 
 ### My Activities
 
 <p>
-<img alt="Mizan's Github History" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirahman&theme=radical&count_private=true" height="200px" width="55%"/>
-<img alt="Mizan's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirahman&theme=radical&border=7F3FBF&background=0D1117" height="200px" width="44%"/>
+<img alt="Mizan's Github History" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirahman&theme=radical&count_private=true" height="200px" width="60%"/>
+<img alt="Mizan's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirahman&theme=radical&border=7F3FBF&background=0D1117" height="200px" width="39%"/>
 </p>
 
 <p>
